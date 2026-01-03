@@ -1,5 +1,6 @@
 ## Hi I'm Nitin 👋
-***
+## I am an Undergrad Computer Science student at George Mason University with an ability to thrive in collaborative, project-based environments with 
+an keen interest in applying skills to complex software challenges in various industries. 
 
 Here are some ideas to get you started:
 
