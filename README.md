@@ -1,7 +1,7 @@
 ## Hi I'm Nitin 👋
 ## I am an Undergraduate Computer Science student at George Mason University with an interest Software Engineering and Full-Stack Development.
 
-## Some Projects I've worked on!
+Some Projects I've worked on!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
