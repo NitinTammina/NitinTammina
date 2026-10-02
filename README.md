@@ -1,5 +1,5 @@
 ## Hi I'm Nitin 👋
-## I am an Undergraduate Computer Science student at George Mason University with an interest Software Engineering and Full-Stack Development.
+## I am an Undergraduate Computer Science student at George Mason University with an interest Software Engineering and ServiceNow Development.
 
 Some Projects I have worked on!
 
